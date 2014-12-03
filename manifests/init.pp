@@ -115,7 +115,7 @@ class skyline (
                          '"auth_token": "key",',
                          '"key": "key",',
                         ],
-) inherits params {
+) {
     include 'archive::prerequisites'
     include 'stdlib'
 
