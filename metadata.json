@@ -1,6 +1,6 @@
 {
   "name": "HawtDogFlvrWtr-skyline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "HawtDogFlvrWtr",
   "summary": "Puppet module for etsy's application, skyline.",
   "license": "Apache 2.0",
@@ -8,7 +8,9 @@
   "project_page": "https://github.com/HawtDogFlvrWtr/puppet-skyline",
   "issues_url": "https://github.com/HawtDogFlvrWtr/puppet-skyline/issues",
   "dependencies": [
-    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"},
+    {"version_requirement":">= 0.2.1","name":"gini-archive"},
+    {"version_requirement":">= 1.0.3","name":"fsalum-redis"}
   ]
 }
 
