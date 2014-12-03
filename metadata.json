@@ -1,7 +1,7 @@
 {
-  "name": "hawtdogflvrwtr-skyline",
+  "name": "HawtDogFlvrWtr-skyline",
   "version": "0.1.0",
-  "author": "hawtdogflvrwtr",
+  "author": "HawtDogFlvrWtr",
   "summary": "Puppet module for etsy's application, skyline.",
   "license": "Apache 2.0",
   "source": "https://github.com/HawtDogFlvrWtr/puppet-skyline",
